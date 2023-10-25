@@ -4,7 +4,7 @@
 Desenvolvimento de projeto que conta com React.js utilizando Typescript, criação de servidor com Json Server e Roteamento utilizando React router dom v6
 
 
-Demonstração: [Demo](https://drcode.com.br)
+Demonstração: [Demo](https://foodcommerce.drcode.com.br)
 ## Referência
 
  - [React.js](https://legacy.reactjs.org/)
